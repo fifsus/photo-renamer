@@ -1,0 +1,7 @@
+/.venv/
+/.mypy_cache/
+/.pytest_cache/
+/build/
+/test_directory/
+**/__pycache__/
+*.spec
